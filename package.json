@@ -1,0 +1,24 @@
+{
+  "name": "random-strg-msg",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafo18/random-strg-msg.git"
+  },
+  "keywords": [],
+  "author": "Rafael Barreto <rafaelbarreto10@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafo18/random-strg-msg/issues"
+  },
+  "homepage": "https://github.com/rafo18/random-strg-msg#readme",
+  "bin": {
+    "random-strg-msg" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
